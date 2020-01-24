@@ -6,3 +6,26 @@
 .navbar .nav-item.active {
   border-left: 3px solid rgb(92, 90, 90);
 }
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url("../img/beach-2836300_1280.jpg");
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url("../img/oia-416135_1920.jpg");
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url("../img/paris-843229_1920.jpg");
+  background-size: cover;
+}
+.carousel-image-4 {
+  background: url("../img/travel-1749508_1920.jpg");
+  background-size: cover;
+}
