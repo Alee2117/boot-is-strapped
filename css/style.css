@@ -59,3 +59,19 @@
   height: 100%;
   background: rgba(19, 17, 17, 0.5);
 }
+
+#play {
+  position: relative;
+  min-height: 300px;
+  background: url("../img/hands-600497_1920.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto 1000px;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+}
+
+#play a {
+  color: white;
+}
