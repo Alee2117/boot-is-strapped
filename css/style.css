@@ -77,6 +77,21 @@
 }
 
 .box {
+  height: 290px;
+  width: 350px;
+}
+
+#about-header {
   height: 200px;
-  width: 360px;
+  position: relative;
+  background: url("/img/thom-holmes-k-xKzowQRn8-unsplash.jpg");
+  background-attachment: fixed;
+  color: white;
+  border-bottom: 1px solid white;
+  padding-top: 50px;
+}
+
+.about-img {
+  height: 400px;
+  width: 400px;
 }
