@@ -12,7 +12,7 @@
 }
 
 .carousel-image-1 {
-  background: linear-gradient(rgba(150, 30, 30, 0.863), rgba(19, 17, 17, 0.45)),
+  background: linear-gradient(rgba(20, 133, 185, 0.863), rgba(19, 17, 17, 0.45)),
     url("../img/beach-2836300_1280.jpg");
   background-size: cover;
 }
