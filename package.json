@@ -1,0 +1,19 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "test website for a company with bootstrap as the base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alee2117/boot-is-strapped.git"
+  },
+  "author": "Austin Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alee2117/boot-is-strapped/issues"
+  },
+  "homepage": "https://github.com/Alee2117/boot-is-strapped#readme"
+}
